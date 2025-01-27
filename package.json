@@ -1,0 +1,23 @@
+{
+  "name": "tiktok",
+  "version": "1.0.0",
+  "description": "tiktok app",
+  "homepage": "https://github.com/JenishVamja73/TokTikBackund#readme",
+  "bugs": {
+    "url": "https://github.com/JenishVamja73/TokTikBackund/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenishVamja73/TokTikBackund.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
